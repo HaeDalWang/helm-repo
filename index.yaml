@@ -3,7 +3,17 @@ entries:
   test:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2022-11-22T14:26:17.020470634+09:00"
+    created: "2022-11-22T15:01:30.996725195+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 4fd1135c97e5773b6f81473782acdd1b709fafda520bf16dfb043d77ba6e3d1b
+    name: test
+    type: application
+    urls:
+    - stable/test-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2022-11-22T15:01:30.994294767+09:00"
     description: A Helm chart for Kubernetes
     digest: b172ce36a60bdaf3fec015fcb6e179e09565d334cfd16a625fc31db27c8d0ee3
     name: test
@@ -11,4 +21,4 @@ entries:
     urls:
     - stable/test-0.1.0.tgz
     version: 0.1.0
-generated: "2022-11-22T14:26:17.019070954+09:00"
+generated: "2022-11-22T15:01:30.993093095+09:00"
